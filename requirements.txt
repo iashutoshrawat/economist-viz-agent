@@ -1,0 +1,5 @@
+# Add your project dependencies here
+# Example:
+# requests>=2.25.1
+# matplotlib>=3.3.4
+# pandas>=1.3.0
